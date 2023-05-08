@@ -38,13 +38,6 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <ul><li> - [ ] Day 5 </li></ul>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br />
-
-<table>
-<tbody>
 <thead>
 <tr>
 <th colspan="5">
@@ -69,13 +62,6 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <ul><li> - [ ] Day 10 </li></ul>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br />
-
-<table>
-<tbody>
 <thead>
 <tr>
 <th colspan="5">
@@ -100,13 +86,6 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <ul><li> - [ ] Day 15 </li></ul>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br />
-
-<table>
-<tbody>
 <thead>
 <tr>
 <th colspan="5">
@@ -131,13 +110,6 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <ul><li> - [ ] Day 20 </li></ul>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br />
-
-<table>
-<tbody>
 <thead>
 <tr>
 <th colspan="5">
@@ -162,13 +134,6 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <ul><li> - [ ] Day 25 </li></ul>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br />
-
-<table>
-<tbody>
 <thead>
 <tr>
 <th colspan="5">
