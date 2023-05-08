@@ -15,16 +15,15 @@ The goal is to complete one tutorial per day, Monday - Friday.
 
 <br />
 
-<style>
-    ul li {
-        display: inline;
-    }
-</style>
-
-<ul>
-<li> - [ ] Day 1 </li>
-<li> - [ ] Day 2 </li>
-<li> - [ ] Day 3 </li>
-<li> - [ ] Day 4 </li>
-<li> - [ ] Day 5 </li>
-</ul>
+<table>
+<tbody>
+<tr>
+<td>
+<ul><li> - [ ] Day 1 </li></ul>
+</td>
+<td>
+<ul><li> - [ ] Day 2 </li></ul>
+</td>
+</tr>
+</tbody>
+</table>
