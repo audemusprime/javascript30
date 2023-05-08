@@ -10,7 +10,7 @@ The goal is to complete one tutorial per day, Monday - Friday.
 
 <br />
 <br />
-<center>
+<div align="center">
 
 <table>
 <tbody>
@@ -161,4 +161,4 @@ The goal is to complete one tutorial per day, Monday - Friday.
 </tbody>
 </table>
 
-</center>
+</div>
