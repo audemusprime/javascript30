@@ -11,12 +11,13 @@ The goal is to complete one tutorial per day, Monday - Friday.
 <br />
 <br />
 
-<h2><strong>Week 1</strong></h2>
-
-<br />
-
 <table>
 <tbody>
+<thead>
+<tr colspan="5">
+<center><h2><strong>Week 1</strong></h2></center>
+</tr>
+</thead>
 <tr>
 <td>
 <ul><li> - [ ] Day 1 </li></ul>
