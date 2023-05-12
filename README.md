@@ -47,7 +47,7 @@ The goal is to complete one tutorial per day, Monday - Friday.
 </thead>
 <tr>
 <td>
-<ul><li> - [ ] Day 6 </li></ul>
+<ul><li> - [x] Day 6 </li></ul>
 </td>
 <td>
 <ul><li> - [ ] Day 7 </li></ul>
