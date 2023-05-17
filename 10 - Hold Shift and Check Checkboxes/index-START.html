@@ -98,14 +98,13 @@
   </div>
 
   <script>
-
     const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');
 
     let lasChecked;
 
     function handleCheck(e) {
       // Check if shift key is down
-      //  AND check that they are checking it
+      // AND check that they are checking it
       let inBetween = false;
       if (e.shiftKey && this.checked) {
         // loop over every checkbox
